@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spotify to YouTube Music"
+  short_description: "Copy playlists with verified recording matches"
+  default_prompt: "Use $spotify-to-youtube-music to copy my Spotify playlists to YouTube Music, preserving recording versions and skipping unverified uploads."
